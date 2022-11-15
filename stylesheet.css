@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: lightblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+  border: 1px solid lightblue;
+  border-radius: 10px;
+  margin: 100px;
+}
+h3 {
+ color: #ccff33;
+}
+.top {
+  background-color: white;
+  padding: 10px 0px 5px 30px;
+  width: 700px; 
+  font-size: 15px;
+}
+.heading {
+   color: #00b38f;
+}
+h2 {
+    font-size: 18px;
+}
+.grey {
+    color: #b8b894;
+}
+.dollar-month {
+    position: relative;
+}
+.dollar {
+    font-weight: bold;
+    font-size: 2rem;
+  
+}
+.left-bottom {
+    background-color: #00b38f ;
+    font-size: 14px;  
+    color: white; 
+    align-items: center; 
+    width: 350px;
+    padding: 20px 0px 20px 30px;
+   
+}
+.month {
+    color: #00e6b8;
+    position: absolute;
+    padding: 15px;
+}
+.right-bottom {
+    background-color: #00cca3;
+    font-size: 14px;
+    color: white;
+    width: 350px;
+    padding: 20px 0px 20px 30px;
+    line-height: 9px;
+}
+.us {
+    font-weight: bold;
+    font-size: 19px;
+}
+.bottom {
+    display: flex;
+    
+}
+button {
+    color: white;
+    padding: 10px 100px;
+    border: #99ff33;
+    border-radius: 4px;
+    background-color: #ccff33;
+}
