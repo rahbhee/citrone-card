@@ -73,3 +73,18 @@ button {
     border-radius: 4px;
     background-color: #ccff33;
 }
+@media (max-width: 600px) {
+    .left-bottom, .right-bottom {
+    max-width: 200px;
+    font-size: 0.7rem;
+    }
+.container {
+    margin: 50px;
+}
+.top {
+    max-width: 365px;
+}
+button {
+    padding: 10px;
+}
+}
