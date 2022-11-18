@@ -73,7 +73,7 @@ button {
     border-radius: 4px;
     background-color: #ccff33;
 }
-@media (max-width: 600px) {
+@media only screen (max-width: 600px) {
     .left-bottom, .right-bottom {
     max-width: 200px;
     font-size: 0.7rem;
